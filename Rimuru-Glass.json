@@ -1,0 +1,33 @@
+{
+  "name": "Rimuru Glass",
+  "description": "Tema azul escuro com vidro, inspirado no Rimuru Tempest.",
+  "authors": [
+    {
+      "name": "MeliSpiking",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#F5FBFF"],
+    "HEADER_SECONDARY": ["#B7DFFF"],
+    "TEXT_NORMAL": ["#EAF7FF"],
+    "TEXT_MUTED": ["#8AAFC9"],
+    "TEXT_LINK": ["#66CCFF"],
+
+    "INTERACTIVE_NORMAL": ["#66CCFF"],
+    "INTERACTIVE_HOVER": ["#9BE1FF"],
+    "INTERACTIVE_ACTIVE": ["#C4F0FF"],
+
+    "BACKGROUND_PRIMARY": ["#061426"],
+    "BACKGROUND_SECONDARY": ["#0A1D33"],
+    "BACKGROUND_TERTIARY": ["#102B47"],
+    "BACKGROUND_ACCENT": ["#1598E8"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F5FBFF",
+    "PRIMARY_300": "#BDEAFF",
+    "PRIMARY_600": "#66CCFF",
+    "PRIMARY_800": "#1598E8"
+  }
+}
