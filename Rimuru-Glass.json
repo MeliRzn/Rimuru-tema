@@ -1,6 +1,6 @@
 {
   "name": "Rimuru Glass",
-  "description": "Tema azul escuro com vidro, inspirado no Rimuru Tempest.",
+  "description": "Tema azul escuro com efeito vidro inspirado no Rimuru Tempest.",
   "authors": [
     {
       "name": "MeliSpiking",
@@ -14,20 +14,27 @@
     "TEXT_NORMAL": ["#EAF7FF"],
     "TEXT_MUTED": ["#8AAFC9"],
     "TEXT_LINK": ["#66CCFF"],
-
     "INTERACTIVE_NORMAL": ["#66CCFF"],
     "INTERACTIVE_HOVER": ["#9BE1FF"],
     "INTERACTIVE_ACTIVE": ["#C4F0FF"],
-
     "BACKGROUND_PRIMARY": ["#061426"],
     "BACKGROUND_SECONDARY": ["#0A1D33"],
     "BACKGROUND_TERTIARY": ["#102B47"],
-    "BACKGROUND_ACCENT": ["#1598E8"]
+    "BACKGROUND_ACCENT": ["#1598E8"],
+    "BACKGROUND_MENTIONED": ["#123B5C"],
+    "BACKGROUND_MODIFIER_HOVER": ["#16456B"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#205A85"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#2873A8"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#081A2E"]
   },
   "rawColors": {
     "PRIMARY_100": "#F5FBFF",
+    "PRIMARY_200": "#DDF4FF",
     "PRIMARY_300": "#BDEAFF",
     "PRIMARY_600": "#66CCFF",
-    "PRIMARY_800": "#1598E8"
-  }
+    "PRIMARY_700": "#36B5F2",
+    "PRIMARY_800": "#1598E8",
+    "PRIMARY_900": "#09649E"
+  },
+  "css": "https://raw.githubusercontent.com/MeliRzn/Rimuru-tema/main/Rimuru-Glass.css"
 }
