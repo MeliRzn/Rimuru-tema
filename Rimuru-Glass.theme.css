@@ -1,0 +1,39 @@
+{
+  "name": "Rimuru Tempest",
+  "description": "Tema inspirado no Rimuru Tempest com tons de azul.",
+  "authors": [
+    {
+      "name": "Renan + ChatGPT",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#F5F9FF"],
+    "HEADER_SECONDARY": ["#AFCFFF"],
+    "TEXT_NORMAL": ["#EAF4FF"],
+    "TEXT_MUTED": ["#8FA9C7"],
+    "TEXT_LINK": ["#5EB9FF"],
+    "INTERACTIVE_NORMAL": ["#5EB9FF"],
+    "INTERACTIVE_HOVER": ["#8FD3FF"],
+    "INTERACTIVE_ACTIVE": ["#B7E4FF"],
+    "BACKGROUND_PRIMARY": ["#0A0F18"],
+    "BACKGROUND_SECONDARY": ["#111827"],
+    "BACKGROUND_TERTIARY": ["#182335"],
+    "BACKGROUND_ACCENT": ["#2D7CCB"],
+    "BACKGROUND_MENTIONED": ["#163A5C"],
+    "BACKGROUND_MODIFIER_HOVER": ["#203A59"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#2A4C73"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#315D91"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#111827"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F5F9FF",
+    "PRIMARY_200": "#D7E9FF",
+    "PRIMARY_300": "#B7D9FF",
+    "PRIMARY_600": "#5EB9FF",
+    "PRIMARY_700": "#4A9CE6",
+    "PRIMARY_800": "#2D7CCB",
+    "PRIMARY_900": "#1A4F8A"
+  }
+}
