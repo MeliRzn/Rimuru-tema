@@ -1,0 +1,76 @@
+/**
+ * @name Rimuru Glass
+ * @author MeliSpiking
+ * @description Rimuru azul vidro
+ */
+
+
+/* Fundo com imagem */
+body {
+    background:
+    linear-gradient(
+        rgba(5,15,35,0.75),
+        rgba(5,15,35,0.85)
+    ),
+    url("https://files.catbox.moe/fk04se.jpg")
+    center/cover fixed !important;
+}
+
+
+/* Painéis de vidro */
+[class*="container"],
+[class*="sidebar"],
+[class*="content"],
+[class*="chat"] {
+
+    background: rgba(10,25,50,0.55) !important;
+
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+
+    border-radius: 18px !important;
+}
+
+
+/* Caixa de mensagem */
+textarea,
+[class*="channelTextArea"] {
+
+    background: rgba(5,20,40,0.6) !important;
+
+    border-radius: 20px !important;
+}
+
+
+/* Botões aura azul */
+button {
+
+    background:
+    rgba(102,204,255,0.25) !important;
+
+    border:
+    1px solid #66CCFF !important;
+
+    box-shadow:
+    0 0 15px rgba(102,204,255,.8);
+
+    border-radius: 15px !important;
+}
+
+
+/* Brilho nos ícones */
+svg {
+
+    filter:
+    drop-shadow(0 0 6px #66CCFF);
+}
+
+
+/* Mensagens */
+[class*="message"] {
+
+    background:
+    rgba(0,0,0,0.20) !important;
+
+    border-radius: 14px !important;
+}
